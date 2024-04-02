@@ -1,0 +1,8 @@
+#빌드폴더
+build/
+
+#.gitkeep 용도는 모르겠음. 내용없는 파일.
+.gitkeep
+
+#node_modules (모듈들)
+node_modules/
